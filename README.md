@@ -64,4 +64,9 @@
  if 변수.isupper():
  print(변수)
  ```
- 
+ ####upper 사용법!
+ -대문자로 바꿔주는 역할
+ ```
+ a = "hello"
+ print(a.upper())
+ ```
